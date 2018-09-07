@@ -1,0 +1,155 @@
+4824m - Santa barbara, Bolivia
+4363m - Cerro de pasco, Peru
+4302m - Margherita, Uganda
+4290m - Dorufchah, Afghanistan
+4124m - Banos, Ecuador
+3932m - San antonio de los cobres, Argentina
+3641m - Murghob, Tajikistan
+3279m - Porgera, Papua new guinea
+3187m - Kodari, Nepa
+3056m - Ha, Bhutan
+2954m - Ipiales, Colombi
+2853m - Fiche, Ethiopia
+2694m - Huixquilucan, Mexico
+2623m - Yarim, Yemen
+2582m - San francisco el alto, Guatemala
+2534m - Molo, Kenya
+2394m - Dayan, China
+2360m - Asmara, Eritrea
+2248m - Calama, Chile
+2230m - Pas de la casa, Andorra
+2224m - Cerro punta, Panama
+2197m - Bayanhongor, Monaco
+2167m - Karanlukh, Armenia
+2163m - Mucumpiz, Venezuela
+2085m - Nuwara eliya, Sri lanka
+2061m - Shahr-e kord, Iran
+1957m - Malbun, Liechtenstein
+1952m - Shatili, Georgia
+1913m - Erzurum, Turkey
+1842m - Cot, Costa rica
+1829m - Colorado springs, United states
+1824m - Faratsiho, Malawi
+1776m - Erigavo, Somalia
+1775m - Johannesburg, South africa
+1771m - Kumbo, Cameroon
+1769m - Sumbawanga, Tanzania
+1769m - Caluquembe, Angola
+1759m - Dedza, Malaysia
+1738.0m - Nyanga, Zimbabwe
+1721m - La esperanza, Honduras
+1671m - Quetta, Pakistan
+1622m - Mbala, Zambia
+1570m - Falam, Myanmar
+1555m - Srinagar, India
+1509m - Azrou, Morocco
+1473m - Gadabay, Azerbaijan
+1464m - Da lat, Vietnam
+1460m - Sungjibaegam, Norway
+1448m - Baguio, Philippines
+1426m - At tayyibah, Jordan
+1396m - Darkton, Swaziland
+1372m - Aflou, Algeria
+1367m - Yabrud, Syria
+1328m - Kurte, Albania
+1325m - Kenscoff, Haiti
+1289m - Lichinga, Mozambique
+1286m - Tekeli, Kazakhstan
+1256m - Penjwin, Iraq
+1250m - Lembang, Indonesia
+1220m - Baalbek, Lebanon
+1208m - Jos, Niger
+1206m - Kyperounda, Cyprus
+1196m - Concepcion de ataco, El salvador
+1177m - Krushevo, Macedonia
+1172m - San rafael del norte, Nicaragua
+1131m - Smolyan, Bulgaria
+1128m - Kutum, Sudan
+1092m - Brasilia, Brazil
+1081m - Airdrie, Canada
+1075m - Aozou, Chad
+1047m - Bouar, Central african republic
+1036m - Einsiedeln, Switzerland
+1019m - Vares, Bosnia and herzegovina
+1014m - Armidale, Australia
+976m - Fogasavaii, Samoa
+969m - Thala, Tunisia
+946m - Zell am see, Austria
+935m - Beit jann, Israel
+887m - Mavis bank, Jamaica
+874m - Ouzini, Comoros
+873m - Chita, Russia
+861m - Burgos, Spain
+833m - Mbigou, Gabon
+823m - Lupeni, Romania
+821m - Waiouru, New zealand
+815m - Sequeira, Portugal
+786m - Koroska-bela, Slovenia
+741m - `arta, Djibouti
+735m - Taebaek, Korea, south
+734m - Senmonourom, Cambodia
+717m - Kozani, Greece
+700m - Yafran, Libya
+700m - Delnice, Croatia
+698m - Potenza, Italy
+684m - Yanqul, Oman
+646m - Acurenam, Equatorial guinea
+598m - Saint-etienne, France
+590m - Matsumoto, Japan
+585m - New yekepa, Liberia
+582m - Bruntal, Czech republic
+579m - Kiruna, Sweden
+537m - Alarsas, Nigeria
+515m - Muenchen, Germany
+513m - Capitan bado, Paraguay
+489m - Amlame, Togo
+485m - Hosingen, Luxembourg
+465m - Walbrzych, Poland
+465m - Bembereke, Benin
+457m - Kidal, Malta
+456m - Rio guayabal de yateras, Cuba
+448m - Begoro, Ghana
+430m - Nouvelle france, Mauritius
+420m - Ban mae chan, Thailand
+389m - Keningau, Maldives
+385m - Arlon, Belgium
+346m - Paradsasvar, Hungary
+338m - Assomada, Cape verde
+314m - Sudureyri, Iceland
+304m - Santa clara de olimar, Uruguay
+296m - Drogobych, Ukraine
+292m - Navahrudak, Belarus
+290m - Toynim, Micronesia
+262m - Kuusamo, Finland
+235m - Dunlewy, Ireland
+230m - Svencionys, Lithuania
+228m - Briceni, Moldova
+219m - Blackmans, Barbados
+198m - Aluksne, Latvia
+190m - Chateaubelair, Saint kitts and nevis
+188m - Halifax, United kingdom
+174m - Al wafrah, Kuwait
+160m - Kerkrade, Netherlands
+158m - Auki, Solomon islands
+151m - Otepaa, Estonia
+145m - Sauteurs, Grenada
+137m - Sao tome, Sao tome and principe
+130m - Benque viejo del carmen, Belize
+105m - Benzdorp (monte hermon), Suriname
+101m - Thies nones, Senegal
+94m - Lethem, Guyana
+77m - Ikast, Denmark
+75m - Barkewol, Mauritania
+60m - Sun kunda, Gambia, the
+59m - Panchagarh, Bangladesh
+47m - Umm bab, Qatar
+45m - Bangar, Brunei
+20m - Imeong, Palau
+13m - Al muharraq, Bahrain
+11m - `ohonua, Tonga
+2m - Nandi, Fiji
+1m - Majuro, Marshall islands
+1m - Tarawa, Kiribati
+1m - Hithadhoo, Mali
+-9999m - Victoria, Seychelles
+-9999m - Funafuti, Tuvalu
