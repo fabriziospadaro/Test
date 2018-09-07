@@ -6,15 +6,14 @@ class CityRanker
   def initialize()
     @results = []
     @formatted_results = []
+    @csv = CSV.open("#{Rails.root}/app/exercise/in/World_Cities_Location_table.csv", :col_sep => ";")
   end
 
   def rank_by_altitude()
-    csv = CSV.open("#{Rails.root}/app/exercise/in/World_Cities_Location_table.csv", :col_sep => ";")
     tmp_region = city_name = region_name = ""
     top_altitude = -99999999
 
-
-    csv.each do |row|
+    @csv.each do |row|
       tmp_region = row[1] if(tmp_region == "")
       #new region, select the city with the best altitude of the previous region
       #before moving on
@@ -33,8 +32,6 @@ class CityRanker
     end
     #push the last calculated result
     @results << { region: region_name, city: city_name, altitude: top_altitude}
-    #format it in a nice way
-
     return
   end
 
@@ -54,6 +51,5 @@ class CityRanker
   def print_results()
     puts @formatted_results
   end
-
 
 end
